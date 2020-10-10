@@ -1,0 +1,3 @@
+# Algorithms from Scratch
+
+In this repo I will be reproducing some popoluar machine-learning algorithms without using the libraries in which the algorithms are already implimented. I will still use  standard libraries like `pandas`, `numpy`, and `matplotlib` for convenience. The goal of this series of projects is to gain a deeper and more intuitive understanding of how these algorithms work and when/why we should use them. 
